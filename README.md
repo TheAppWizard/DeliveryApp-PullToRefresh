@@ -4,7 +4,7 @@
 
 This project implements a Pull To Refresh feature in SwiftUI for the DeliveryApp. It allows users to refresh the content of the app by pulling down on the screen.
 
-## Credits
+## Credits - [Tepi Kuncoro]
 
 This Pull To Refresh implementation was inspired by the design from [Truck Delivery by Tepi Kuncoro](https://dribbble.com/shots/8759739-Truck-Delivery).
 
